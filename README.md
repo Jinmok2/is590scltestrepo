@@ -4,4 +4,4 @@ I'll be adding more to this repo as we learn more about the features.
 
 ## Author
 
-Jinmo Kim
+Jinmo Kim (UIUC)
